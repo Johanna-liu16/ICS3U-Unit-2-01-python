@@ -17,6 +17,7 @@ def main():
     print("")
     print("Area = πr²")
     print("Area is {}mm².".format(round(area, 2)))
+    print("Perimeter = 2πr")
     print("Perimeter is {}mm.".format(round(perimeter, 2)))
     print("")
     print("Done.")
